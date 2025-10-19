@@ -1,0 +1,29 @@
+{
+  "albums": [
+    {
+      "id": "3JDzsSzP5IQG-puqhST8H",
+      "title": "dwad",
+      "images": [],
+      "published": true,
+      "createdAt": "2025-10-19T03:51:35.158Z"
+    },
+    {
+      "id": "da_K64-XsnV14uO4-nmgF",
+      "title": "Bielsko biała",
+      "images": [
+        {
+          "id": "CpEgGes1Yx0EoB9HkwRYA",
+          "fileUrl": "/uploads/CpEgGes1Yx0EoB9HkwRYA-77b16025-64bc-4685-bfce-c0f7fc95e49d.jpg.webp",
+          "thumbUrl": "/uploads/CpEgGes1Yx0EoB9HkwRYA-thumb-77b16025-64bc-4685-bfce-c0f7fc95e49d.jpg.webp"
+        },
+        {
+          "id": "do6poIY3YgEa9YNmrtfK1",
+          "fileUrl": "/uploads/do6poIY3YgEa9YNmrtfK1-20f421b0-7c81-4815-85c9-2dc9f96bb1db.jpg.webp",
+          "thumbUrl": "/uploads/do6poIY3YgEa9YNmrtfK1-thumb-20f421b0-7c81-4815-85c9-2dc9f96bb1db.jpg.webp"
+        }
+      ],
+      "published": true,
+      "createdAt": "2025-10-19T03:45:59.407Z"
+    }
+  ]
+}
